@@ -2,3 +2,4 @@ numpy
 requests
 pygraphviz
 tabulate
+seaborn
