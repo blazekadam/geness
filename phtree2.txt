@@ -1,0 +1,1 @@
+(((((("commonc","bonoboc"),"human"),"gorilla"),"orangut"),"gibbon"),(((("cat",("dog",("harbors","graysea"))),(((("cow","sheep"),("finwhal","bluewha")),"hippo"),((("donkey","horse"),("whiterh","indianr")),"pig"))),(("fatdorm","squirre"),"guineap")),(("mouse","rat"),(("opossum","wallaro"),"platypu"))),"baboon")
